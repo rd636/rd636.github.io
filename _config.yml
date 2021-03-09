@@ -1,2 +1,3 @@
 theme: jekyll-theme-slate
 title: RD Blog Site
+baseurl: /_posts
