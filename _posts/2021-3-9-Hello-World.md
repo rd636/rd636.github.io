@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Test post
 date: 2021-03-09
-published: true
 ---
 
 
